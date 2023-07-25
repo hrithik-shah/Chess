@@ -19,5 +19,3 @@ The game chess written using python and pygame; the game includes the following 
 
 # Running the Game
 The game can be run as long as python and pygame are installed. You may have a problem if the files are not placed together in folders as I have done here.
-
-#
