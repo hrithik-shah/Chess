@@ -1,7 +1,14 @@
 # Chess
 
 # Desciption
-The game chess written using python and pygame; the game includes the following features: themes, sounds, animations, possible moves and check enforcement.
+The game chess written using python and pygame.
+
+# Features
+- Multiple themes
+- Sounds
+- Animations
+- Possible moves are shown
+- Check enforcement
 
 # Game Files
 - board.py manages piece location and piece moves
