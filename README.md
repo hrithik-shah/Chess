@@ -3,7 +3,7 @@
 # Desciption
 The game chess written using python and pygame; the game includes the following features: themes, sounds, animations, possible moves and check enforcement.
 
-# Table of Contents
+# Game Files
 - board.py manages piece location and piece moves
 - color.py contains the color class 
 - config.py manages different themes and sounds
@@ -18,4 +18,8 @@ The game chess written using python and pygame; the game includes the following 
 - theme.py manages the themese
 
 # Running the Game
-The game can be run as long as python and pygame are installed. You may have a problem if the files are not placed together in folders as I have done here.
+Download the files and ensure the files are kept in the same order as I have done. Then click run.
+
+# Languages and Frameworks
+- Python
+- Pygame
